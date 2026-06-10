@@ -1,0 +1,22 @@
+.container{
+    background-color:var(--bs-danger-bg-subtle);
+}
+.bg1{
+    background-color:var(--bs-success-bg-subtle);
+    display:flex;
+    gap:10px;
+    align-items:center;
+    justify-content:center;
+}
+.img1{
+    width: 300px;
+    height:300px;
+    object-fit:contain;
+}
+.bg2{
+    background-color:var(--bs-primary-bg-subtle);
+}
+.c2{
+    padding-bottom:30px;
+    padding-top:30px;
+}
