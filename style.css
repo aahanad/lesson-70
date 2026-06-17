@@ -1,5 +1,6 @@
 .container{
     background-color:var(--bs-danger-bg-subtle);
+
 }
 .bg1{
     background-color:var(--bs-success-bg-subtle);
@@ -19,4 +20,18 @@
 .c2{
     padding-bottom:30px;
     padding-top:30px;
+}
+.navbar{
+    background-color:var(--bs-warning-bg-subtle)
+}
+.bg3{
+    background-color:var(--bs-warning-bg-subtle);
+}
+.carousel-item{
+    height:400px;
+    width:400px;
+}
+.carousel-item img{
+    height:500px;
+    width:400px;
 }
