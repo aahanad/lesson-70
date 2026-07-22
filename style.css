@@ -1,14 +1,3 @@
-.container{
-    background-color:var(--bs-danger-bg-subtle);
-
-}
-.bg1{
-    background-color:var(--bs-success-bg-subtle);
-    display:flex;
-    gap:10px;
-    align-items:center;
-    justify-content:center;
-}
 .img1{
     width: 300px;
     height:300px;
@@ -35,4 +24,13 @@
 #carouselExampleFade{
     max-width:1320px;
     margin:0 auto;
+}
+.carousel{
+    border-radius:12px;
+    overflow:hidden;
+}
+#gallery-lightbox img{
+    height:350px;
+    object-fit:cover;
+    cursor:pointer;
 }
